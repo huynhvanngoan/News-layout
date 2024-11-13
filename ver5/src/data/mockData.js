@@ -170,9 +170,9 @@ export const relatedNews = [
     },
     {
         id: 4,
-        imageSrc: "https://photo2.tinhte.vn/data/attachment-files/2024/11/8523234_cover.jpg",
-        title: "Các sự kiện Văn hóa, Du lịch diễn ra trong tháng 11/2024",
-        source: "Nam Air",
+        imageSrc: "https://photo2.tinhte.vn/data/attachment-files/2024/11/8525708_tinhte-iphone-16-pro-01.jpg",
+        title: "Một lần đi đẻ với iPhone 16 Pro",
+        source: "Trần Hoàng Long",
         comments: 678,
         timeAgo: "57 minutes ago",
         url: "/",

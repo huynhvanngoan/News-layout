@@ -12,7 +12,7 @@
 <script>
 import HighlightNews from "./components/HighlightNews.vue";
 import QuickView from "./components/QuickView.vue";
-import MainNews from "./components/MainNews.vue";
+import MainNews from "./components/MainNews2.vue";
 export default {
     name: "App",
     components: {
@@ -84,16 +84,7 @@ hr {
     /* gap: 18px; */
 }
 
-.source-comment {
-    display: flex;
-    /* justify-content: center; */
-    align-items: center;
-}
 
-.news-comment {
-    padding-top: 0.7px;
-    margin-left: 8px;
-}
 @media (min-width: 320px) and (max-width: 629px) {
     .main-container {
         padding: 0;

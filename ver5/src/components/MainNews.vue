@@ -80,7 +80,7 @@ export default defineComponent({
 /* Main News */
 .main-news {
     width: 866px;
-    /* padding: 16px 20px 0px; */
+    padding: 16px 20px 0px;
     margin: 0px 20px 20px;
     display: grid;
     grid-template-areas:
