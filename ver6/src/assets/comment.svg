@@ -1,0 +1,37 @@
+<svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="21"
+                        height="21"
+                        viewBox="0 0 25 21"
+                    >
+                        <g fill="none" fill-rule="evenodd">
+                            <text
+                                fill="#313131"
+                                font-family="Lato-Regular, Lato"
+                                font-size="12.744"
+                                letter-spacing=".679"
+                                transform="translate(-211 3)"
+                            >
+                                <tspan x="100" y="13">57 minutes ago</tspan>
+                                <tspan
+                                    x="242.728"
+                                    y="13"
+                                    font-family="Lato-Bold, Lato"
+                                    font-weight="bold"
+                                >
+                                    678
+                                </tspan>
+                                <tspan x="266.938" y="13"></tspan>
+                            </text>
+                            <g fill-rule="nonzero">
+                                <path
+                                    fill="#44d7b6"
+                                    d="M19.873.024H5.127A5.133 5.133 0 0 0 0 5.151v7.919a5.046 5.046 0 0 0 3.627 4.85l2.476 2.476a.735.735 0 0 0 1.036 0l2.272-2.272h10.462c2.827 0 5.127-2.3 5.127-5.127V5.151C25 2.324 22.7.024 19.873.024z"
+                                ></path>
+                                <path
+                                    fill="#F2F0FF"
+                                    d="M7.85 8.512h9.3a.733.733 0 1 0 0-1.465h-9.3a.733.733 0 1 0 0 1.465zm0 2.589h9.3a.733.733 0 1 0 0-1.465h-9.3a.733.733 0 1 0 0 1.465z"
+                                ></path>
+                            </g>
+                        </g>
+                    </svg>
